@@ -1,0 +1,2 @@
+# landing_beauty
+wordpress
